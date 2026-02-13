@@ -18,8 +18,5 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 - Easy to customize with Tailwind utility classes 🎯
 - Professional sections: About, Skills, Projects, Contact, etc. 
 
-## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
 
